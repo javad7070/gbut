@@ -3,10 +3,10 @@ return {
 	cmd = '^[/!#]',
 	allowed_updates = {"message", "edited_message", "callback_query"},
 	db = 2, --default redis db: 0
-	superadmins = {23646077, 278941742},
+	superadmins = {283786541, 283786541},
 	log = {
-		chat = -1001089188566, --Your log chat, where your bot must be added!
-		admin = 23646077, --The admin.
+		chat = 283786541, --Your log chat, where your bot must be added!
+		admin = 283786541, --The admin.
 		stats = nil
 	},
 	human_readable_version = '4.2.0',
